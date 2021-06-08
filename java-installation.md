@@ -2,7 +2,7 @@
 title: Java Installation
 description: Java Installation Guide
 published: true
-date: 2021-06-08T02:47:41.615Z
+date: 2021-06-08T04:46:48.684Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T02:08:12.642Z
@@ -88,7 +88,7 @@ tar xvzf openjdk-16.0.1_linux-x64_bin.tar.gz
 export JAVA_HOME=(자바 경로)
 export PATH=$JAVA_HOME/bin:$PATH
 
-source ~/.bashrc # bash 사용시 ~/.bashrc, ~/.bash_proile
+source ~/.zshrc # bash 사용시 ~/.bashrc, ~/.bash_proile
 ```
 
 #### Linux Global Environment

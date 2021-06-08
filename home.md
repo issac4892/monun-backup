@@ -2,7 +2,7 @@
 title: Welcome
 description: monun-docs
 published: true
-date: 2021-06-08T07:22:31.923Z
+date: 2021-06-08T07:41:24.749Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-07T16:26:05.844Z
@@ -33,3 +33,14 @@ Twitter: [@qogusdn1017](https://twitter.com/qogusdn1017)
 ## GitHub Repository
 
 [여기서](https://github.com/HyeonWorks/monun-docs) 확인 가능합니다! 사이트가 먼저 업데이트 되오니 가급적 사이트를 이용 해주시길 바라겠습니다.
+
+### Contributors
+
+- [배현우](https://github.com/qogusdn1017)
+
+- [aroxu](https://github.com/aroxu)
+- [PatrickKR](https://github.com/patrick-mc)
+
+- [심심하다 (issac4892)](https://github.com/issac4892)
+- [NamuTree0345](https://github.com/NamuTree0345)
+- [Project_TL](https://github.com/ProjectTL12345)

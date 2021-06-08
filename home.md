@@ -2,7 +2,7 @@
 title: Welcome
 description: monun-docs
 published: true
-date: 2021-06-08T05:09:13.537Z
+date: 2021-06-08T05:10:50.709Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-07T16:26:05.844Z
@@ -16,7 +16,7 @@ dateCreated: 2021-06-07T16:26:05.844Z
 
 - 이 가이드 내의 말하는 이는 모두 monun님으로 고정되어 있습니다.
 
-- 웹에서 확인 할 시 더욱 쾌적한 환경에서 보실 수 있습니다.
+- PC에서 확인 할 시 더욱 쾌적한 환경에서 보실 수 있습니다.
 
 ## 오타지적, 내용 향상, 잘못된 부분 수정 등 기여 하기
 

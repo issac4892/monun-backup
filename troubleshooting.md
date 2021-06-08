@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Minecraft Server Error & Gradle Build Error FaQ
 published: true
-date: 2021-06-08T02:35:33.973Z
+date: 2021-06-08T04:59:45.305Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T02:35:26.622Z
@@ -45,3 +45,8 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency ~~~. Please dow
 
 # Gradle 빌드 오류 문제 해결
 
+## NO JDK
+
+## USING JRE
+
+## NMS Local Repository

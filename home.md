@@ -2,7 +2,7 @@
 title: Welcome
 description: monun-docs
 published: true
-date: 2021-06-08T03:48:46.246Z
+date: 2021-06-08T03:50:58.942Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-07T16:26:05.844Z

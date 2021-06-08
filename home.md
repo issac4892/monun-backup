@@ -2,7 +2,7 @@
 title: Welcome
 description: monun-docs
 published: true
-date: 2021-06-08T08:03:11.884Z
+date: 2021-06-08T09:29:42.297Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-07T16:26:05.844Z
@@ -22,7 +22,7 @@ dateCreated: 2021-06-07T16:26:05.844Z
 
 GitHub에 있는 [Issue](https://github.com/HyeonWorks/monun-docs/issues) 또는 [Pull Request](https://github.com/HyeonWorks/monun-docs/pulls)를 이용해주세요.
 
-## **Collaborator 참여**
+## Collaborator 참여
 
 자유롭게 디스코드 혹은 트위터 DM 남겨주세요!
 

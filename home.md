@@ -2,7 +2,7 @@
 title: Welcome
 description: monun-docs
 published: true
-date: 2021-06-08T01:19:35.971Z
+date: 2021-06-08T03:48:46.246Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-07T16:26:05.844Z
@@ -11,8 +11,6 @@ dateCreated: 2021-06-07T16:26:05.844Z
 # Welcome to Monun Docs!
 
 각별님 (현 코드네임 [monun](https://github.com/monun/) 님) 을 위해 제작한 사람들이 자주 묻는 질문 및 플러그인 & 라이브러리 적용 설명법 모음 문서입니다.
-
-Test Text
 
 ## 안내
 

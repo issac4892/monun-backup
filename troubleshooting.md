@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Minecraft Server Error & Gradle Build Error FaQ
 published: true
-date: 2021-06-08T07:19:17.162Z
+date: 2021-06-08T08:46:41.479Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T02:35:26.622Z
@@ -76,8 +76,8 @@ location of your Java installation.
 > Could not resolve all files for configuration ':compileClasspath'.
    > Could not find org.spigotmc:spigot:1.16.5-R0.1-SNAPSHOT.
      Searched in the following locations:
-       - file:/C:/Users/BaeHyeonWoo/.m2/repository/org/spigotmc/spigot/1.16.5-R0.1-SNAPSHOT/maven-metadata.xml
-       - file:/C:/Users/BaeHyeonWoo/.m2/repository/org/spigotmc/spigot/1.16.5-R0.1-SNAPSHOT/spigot-1.16.5-R0.1-SNAPSHOT.pom
+       - file:/C:/Users/사용자이름/.m2/repository/org/spigotmc/spigot/1.16.5-R0.1-SNAPSHOT/maven-metadata.xml
+       - file:/C:/Users/사용자이름/.m2/repository/org/spigotmc/spigot/1.16.5-R0.1-SNAPSHOT/spigot-1.16.5-R0.1-SNAPSHOT.pom
        - https://repo.maven.apache.org/maven2/org/spigotmc/spigot/1.16.5-R0.1-SNAPSHOT/maven-metadata.xml
        - https://repo.maven.apache.org/maven2/org/spigotmc/spigot/1.16.5-R0.1-SNAPSHOT/spigot-1.16.5-R0.1-SNAPSHOT.pom
        - https://papermc.io/repo/repository/maven-public/org/spigotmc/spigot/1.16.5-R0.1-SNAPSHOT/maven-metadata.xml

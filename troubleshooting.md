@@ -2,7 +2,7 @@
 title: Troubleshooting
 description: Minecraft Server Error & Gradle Build Error FaQ
 published: true
-date: 2021-06-08T04:59:45.305Z
+date: 2021-06-08T05:31:56.225Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-08T02:35:26.622Z
@@ -29,7 +29,7 @@ Google과 같은 검색 사이트에서 직접 검색하여 먼저 문제를 찾
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: ~~~ has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0
 ```
 
-와 비슷하거나 같은 경우, 자바 버전에 관련된 문제입니다. [Java Installation](https://monun.me/ko/java-installation) 문서를 확인하고 와주세요.
+와 비슷하거나 같은 경우, 자바 버전에 관련된 문제입니다. 해결 방법은 [Java Installation](https://monun.me/ko/java-installation) 문서를 확인하고 와주세요.
 
 ## Unknown Dependency:
 
@@ -47,6 +47,23 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency ~~~. Please dow
 
 ## NO JDK
 
+오류 내용이
+
+```
+ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
+
+Please set the JAVA_HOME variable in your environment to match the
+location of your Java installation.
+```
+
+와 비슷하거나 같은 경우, JDK가 설치되지 않았거나 PATH에 등록되지 않은 것입니다. 해결 방법은 [Java Installation](https://monun.me/ko/java-installation) 문서를 확인하고 와주세요.
+
 ## USING JRE
+
+```
+> Kotlin could not find the required JDK tools in the Java installation 'C:\Program Files (x86)\Java\jre1.8.0_291' used by Gradle. Make sure Gradle is running on a JDK, not JRE.
+```
+
+와 비슷하거나 같은 경우, JDK가 설치되지 않았거나 PATH에 등록되지 않았고, JRE를 이용해 빌드 시도를 한 것입니다. 해결 방법은 [Java Installation](https://monun.me/ko/java-installation) 문서를 확인하고 와주세요.
 
 ## NMS Local Repository

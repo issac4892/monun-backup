@@ -2,15 +2,15 @@
 title: Getting Started
 description: 
 published: true
-date: 2021-06-09T09:13:56.966Z
+date: 2021-06-09T19:27:00.166Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-09T04:19:27.061Z
 ---
 
 # Getting Started
-## `tap`이란?
-tap은 제가 제작한 여러 유용한 기능이 있는 라이브러리입니다.
+## `Tap`이란?
+[Tap](https://github.com/monun/tap/)은 제가 제작한 여러 유용한 기능이 있는 라이브러리입니다.
 
 #### 지원 기능
  * 개체 패킷
@@ -51,3 +51,7 @@ dependencies {
     implementation("com.github.monun:tap:version")
 }
 ```
+
+> 플러그인 구현체는 [Releases](https://github.com/monun/tap/releases/latest) 에서 얻으 실 수 있으며, Tap의 의존성으로 [ProtocolLib](https://github.com/dmulloy2/ProtocolLib/releases/latest)와 [Kotlin Plugin](https://github.com/monun/kotlin-plugin/releases)이 필요합니다.
+
+ProtocolLib은 [Jenkins 최근 성공 빌드](https://ci.dmulloy2.net/job/ProtocolLib/lastSuccessfulBuild/artifact/target/ProtocolLib.jar)에서 받으시면 편리하나, **언제나 불안정 할 수 있음**을 미리 알려드립니다.

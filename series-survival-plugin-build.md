@@ -2,7 +2,7 @@
 title: Series Survival Plugin Build
 description: 생존일지 플러그인 빌드 방법
 published: true
-date: 2021-06-12T12:03:33.922Z
+date: 2021-06-13T14:00:16.063Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-09T19:46:44.257Z
@@ -14,3 +14,4 @@ dateCreated: 2021-06-09T19:46:44.257Z
 출처: [나무위키](https://namu.wiki/w/%EB%AF%B8%EC%95%88%ED%95%98%EB%8B%A4%20%EC%9D%B4%EA%B1%B0%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%A0%A4%EA%B3%A0%20%EC%96%B4%EA%B7%B8%EB%A1%9C%EB%81%8C%EC%97%88%EB%8B%A4#s-2)
 
 심심하다 왔다감 쿠쿠루삥봉
+  ㄴ   꺼져
